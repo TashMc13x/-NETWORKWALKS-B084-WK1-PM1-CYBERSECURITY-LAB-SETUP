@@ -1,0 +1,2 @@
+# -NETWORKWALKSEMMANUEL-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
+Lab setup for cybersecurity, Assignment 1
