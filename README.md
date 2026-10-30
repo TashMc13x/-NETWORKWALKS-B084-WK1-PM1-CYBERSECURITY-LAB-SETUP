@@ -37,7 +37,7 @@ The main objectives of this project are to:
 8.NetworkConfiguration.png
 9.Troubleshooting.png
 
-![Week 1 Lab/1.InstallAndConfigureVBox.png](1.InstallAndConfigureVBox.png)
+![](1.InstallAndConfigureVBox.png)
 
 
 ---
