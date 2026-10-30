@@ -36,7 +36,8 @@ The main objectives of this project are to:
 7.InstallKaliLinux.png
 8.NetworkConfiguration.png
 9.Troubleshooting.png
-![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](1.InstallAndConfigureVBox.png)
+
+![-NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP](1.InstallAndConfigureVBox.png)
 
 
 ---
