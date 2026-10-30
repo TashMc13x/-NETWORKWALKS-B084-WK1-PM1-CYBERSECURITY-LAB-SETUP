@@ -25,34 +25,51 @@ The main objectives of this project are to:
 
 
 ## Install and configure VirtualBox.
-
-10.Googlecheck.png
-11.Snapshot.png
-2.NATNetworkSetup1.png
-3.NATNetworkSetup2.png
-4.NATNetworkVerify.png
-5.ImportKaliLinux.png
-6.ImportKaliLinux2.png
-7.InstallKaliLinux.png
-8.NetworkConfiguration.png
-9.Troubleshooting.png
-
 ![](1.InstallAndConfigureVBox.png)
 
+---
+## Create a private NAT Network for the cybersecurity lab.
+![](2.NATNetworkSetup1.png)
+![](3.NATNetworkSetup2.png)
+![](4.NATNetworkVerify.png)
 
 ---
 
 ## Install/import Kali Linux as a virtual machine.
-![NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP]
-![NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP]
-![NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP]
+![](5.ImportKaliLinux.png)
+![](6.ImportKaliLinux2.png)
+![](7.InstallKaliLinux.png)
 
 ---
-## Create a private NAT Network for the cybersecurity lab.
-![NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP]
 
----
 ## Configure the Kali Linux Network
+![](8.NetworkConfiguration.png)
 
-![NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP]
-![NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP]
+---
+
+##**Troubleshoot the Kali Linux Network.**
+![](9.Troubleshooting.png)
+1[](10.Googlecheck.png)
+
+---
+##****Virtual Machine Snapshot Creation**
+![](11.Snapshot.png)
+
+
+## 📌 Security and Ethical Considerations
+
+This environment is intended for authorized cybersecurity learning and testing.
+
+Cybersecurity tools should only be used against systems and networks for which permission has been granted.
+
+## 🖋️ ****Author****
+
+Tashayna McIntosh
+
+Cybersecurity Trainee B084
+
+LinkedIn:www.linkedin.com/in/tashayna-mcintosh-003661266
+
+## **Conclusion****
+
+This repository documents the lab configuration, setup procedure, and supporting evidence for the week 1 PM1 cybersecurity lab.
