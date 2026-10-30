@@ -37,7 +37,7 @@ The main objectives of this project are to:
 8.NetworkConfiguration.png
 9.Troubleshooting.png
 
-![-NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP](1.InstallAndConfigureVBox.png)
+![Week 1 Lab/1.InstallAndConfigureVBox.png](1.InstallAndConfigureVBox.png)
 
 
 ---
