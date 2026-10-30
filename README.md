@@ -26,9 +26,17 @@ The main objectives of this project are to:
 
 ## Install and configure VirtualBox.
 
-![NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP]
-![NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP]
-![NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP]
+10.Googlecheck.png
+11.Snapshot.png
+2.NATNetworkSetup1.png
+3.NATNetworkSetup2.png
+4.NATNetworkVerify.png
+5.ImportKaliLinux.png
+6.ImportKaliLinux2.png
+7.InstallKaliLinux.png
+8.NetworkConfiguration.png
+9.Troubleshooting.png
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](1.InstallAndConfigureVBox.png)
 
 
 ---
